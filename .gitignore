@@ -36,6 +36,12 @@ yarn-error.log*
 # vercel
 .vercel
 
+# static export output
+/out/
+
+# github pages deploy artifact
+/.github/.deploy-cache/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
