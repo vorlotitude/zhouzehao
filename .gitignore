@@ -42,6 +42,9 @@ yarn-error.log*
 # github pages deploy artifact
 /.github/.deploy-cache/
 
+# 开发参考素材（人物三视图等，不进入生产/公开仓库）
+/assets-reference/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
